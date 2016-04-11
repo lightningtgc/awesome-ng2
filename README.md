@@ -6,10 +6,10 @@
 
 #### 官方资源
 
-- [EN: Angular 2官网](https://angular.io/)
-- [EN: 开发文档](https://angular.io/docs/js/latest/)
-- [EN: API文档](https://angular.io/docs/js/latest/api/)
-- [EN: Github地址](https://github.com/angular/angular)
+- [Angular 2官网](https://angular.io/)
+- [开发文档](https://angular.io/docs/js/latest/)
+- [API文档](https://angular.io/docs/js/latest/api/)
+- [Github地址](https://github.com/angular/angular)
 
 
 
@@ -43,6 +43,10 @@
 - [angular2-webpack-starter](https://github.com/AngularClass/angular2-webpack-starter)
 
 ### 代码风格指南
+
+- [Angular2 代码风格指南](https://github.com/mgechev/angular2-style-guide)
+- [Codelyzer - ng2代码质量检查工具](https://github.com/mgechev/codelyzer)
+- [TypeScript代码质量检查工具](https://github.com/palantir/tslint)
 
 ### 演讲分享
 - #### 国内技术大会
