@@ -24,6 +24,8 @@
 
 - [广发证券技术博客](https://github.com/gf-rd/blog/issues)
 - [blogspot](http://angularjs.blogspot.com/)
+- [VICTOR SAVKIN - ng2核心开发成员个人博客](http://victorsavkin.com/)
+- [thoughtram - ng2合作团队博客](http://blog.thoughtram.io/)
 
 ### 电子书
 
