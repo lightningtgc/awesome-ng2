@@ -43,6 +43,7 @@
 - [angular2-seed](https://github.com/angular/angular2-seed)
 - [angular2-seed 结合Gulp.js](https://github.com/mgechev/angular2-seed)
 - [angular2-webpack-starter](https://github.com/AngularClass/angular2-webpack-starter)
+- [angualr2-seed-advanced](https://github.com/NathanWalker/angular2-seed-advanced)
 
 ### 代码风格指南
 
