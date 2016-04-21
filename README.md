@@ -52,6 +52,9 @@
 - [Codelyzer - ng2代码质量检查工具](https://github.com/mgechev/codelyzer)
 - [TypeScript代码质量检查工具](https://github.com/palantir/tslint)
 
+### 社区
+- [Angular2疑难 所有人问所有人（中文版）](https://github.com/kittencup/angular2-ama-cn)
+
 ### 演讲分享
 - #### 国内技术大会
  - [剖析 Angular 2 - 汤桂川](http://slides.com/tangguichuan/dissect-angular2/#/)
