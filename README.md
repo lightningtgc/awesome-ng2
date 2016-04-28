@@ -48,8 +48,8 @@
 
 ### UI组件
 
-- [PrimeNG](http://www.primefaces.org/primeng/)
-- [material2](https://github.com/angular/material2)
+- [PrimeNG - ng2 UI组件库集合](http://www.primefaces.org/primeng/)
+- [Material2 - ng2 Material Design组件库](https://github.com/angular/material2)
 
 ### 代码风格指南
 
