@@ -46,6 +46,11 @@
 - [angualr2-seed-advanced](https://github.com/NathanWalker/angular2-seed-advanced)
 - [angular2-cli](https://github.com/angular/angular-cli)
 
+### UI组件
+
+- [PrimeNG](http://www.primefaces.org/primeng/)
+- [material2](https://github.com/angular/material2)
+
 ### 代码风格指南
 
 - [Angular2 代码风格指南](https://github.com/mgechev/angular2-style-guide)
