@@ -45,6 +45,7 @@
 - [angular2-webpack-starter](https://github.com/AngularClass/angular2-webpack-starter)
 - [angular2-seed-advanced](https://github.com/NathanWalker/angular2-seed-advanced)
 - [angular2-cli](https://github.com/angular/angular-cli)
+- [angular2-esnext-starter](https://github.com/blacksonic/angular2-esnext-starter)（仅面向ES6/7，不支持typescript）
 
 ### UI组件
 
