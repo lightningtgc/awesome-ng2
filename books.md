@@ -47,33 +47,20 @@ https://www.ng-book.com/media/ng2/ng-book-2-table-of-contents.pdf
 在 How Angular Works 通过一个简单的产品（Navigation，Breadcrumb，Project List, ProductRow, ProductImage, ProductDisplay, ProductDepartment）的多组件的讲解来看看
 
 ```markdown
-### Writing your first Angular 2 Web Application (1-54)
-
-### TypeScript (55-70)
-
-### How Angular Works(71-105)
-
-### Built-in Components(107-122)
-
-### Forms in Angular 2 (123-151)
-
-### Data Architecutre in Angular 
-
-### Data Architecture with Observables - Part1: Services
-
-### Data Architecture with Observables - Part2: View Components
-
-### HTTP
-
-### Routing
-
-### Advanced Components
-
-### Converting an Angular 1 App to Angular 2
-
-### Testing
-
-### Changelog
+- Writing your first Angular 2 Web Application (1-54)
+- TypeScript (55-70)
+- How Angular Works(71-105)
+- Built-in Components(107-122)
+- Forms in Angular 2 (123-151)
+- Data Architecutre in Angular 
+- Data Architecture with Observables - Part1: Services
+- Data Architecture with Observables - Part2: View Components
+- HTTP
+- Routing
+- Advanced Components
+- Converting an Angular 1 App to Angular 2
+- Testing
+- Changelog
 ```
 
 
