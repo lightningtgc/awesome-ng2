@@ -1,5 +1,4 @@
 
-
 该份指南对当前较为热门的开发者大会中进行追踪和学习。譬如该大会中分享的技术点，不同的topics话题，不同公司的实践产品和做法，还有前言技术研究和探索等进行罗列和讲述。
 
 <!-- MarkdownTOC -->
@@ -27,23 +26,40 @@ Angular 2 Workshop sponsored by Google Cloud Platform
 -------
 
 Keynote 1
+
 An Angular 2 Force Awakens
+
 Angular 2's Fresh Approach to Style
+
 TypeScript: Angular 2's Secret Weapon
+
 Angular 2 Universal Patterns
+
 Adjusting the Dials in the Circuits of the Human Brain with Deep Brain Stimulation
 
+
 Routing
+
+
 Components, Components, Components! ... and Angular 1.5
+
 Look Deeply Into Your App with Augury (formerly known as Batarangle)
+
 The ng-show: Angular 2
 
+
 Angular Material: Titanium Octopus
+
 Testing all your Tasks
+
 Functional Reactive JavaScript- Let's stop the Conversational Remorse!
+
 Rockin' 'Round The Docs
+
 Sharing Code Between Web and Native Apps
+
 Generative Art in Angular 2
+
 Progressive Web Apps
 
 
@@ -51,41 +67,64 @@ Progressive Web Apps
 -------------
 
 Keynote 2
+
 ng-conf newsroom
+
 Various Fair Day Activites
+
 Becoming an Angular 2 Contributor - Fair Day Workshop
+
 Migrating Angular 1 Apps to Angular 2 - Fair Day Workshop
+
 Get that Corner Office with Angular and Electron - Fair Day Workshop
+
 Contributing to the Angular 2 Documentation - Fair Day Workshop
+
 Up and Running with Ionic v2! - Fair Day Workshop
+
 Smarter Navigation With The Component Router - Fair Day Workshop
+
 Angular Air Recording
+
 Look Deeply Into Your App with Augury (formerly known as Batarangle). - Fair Day Workshop
 
 Implement Single Sign-On with Auth0 - Fair Day Workshop
+
 Wanting it all vs. Being Great
+
 Typescript 2 in 60ish Minutes - Fair Day Workshop
+
 Angular Air Broadcast
+
 Deploy your Angular apps on Google Cloud Platform - Fair Day Workshop
+
 Angular 2 in 60ish Minutes - Fair Day Workshop
+
 Angular + Webpack <3 - Fair Day Workshop
-Science Fair
-Form.io
-Sauce Labs
+
+Science Fair，Form.io，Sauce Labs
+
 Horizon: a scalable Rethinkdb backend for realtime web apps - Fair Day Workshop
+
 Isolating and Improving performance in Angular 1 Applications
+
 Building Native iOS and Android Apps With Angular 2 and NativeScript - Fair Day Workshop
+
 Code Lab: New Data Architecture in Angular 2
 
 
 Climbing into Elm - Fair Day Workshop
+
 Unit Testing with Angular 2
+
 Angular 2 Server-side Rendering (Angular 2 Universal) - Fair Day Workshop
+
 Angular 2 libraries, it's time to code - Fair Day Workshop
-Rangle Mini Party
-VMware Mini Party
-Capital One Mini Party
+
+Rangle Mini Party，VMware Mini Party，Capital One Mini Party
+
 Game Night, Starcraft Tournament
+
 ng-game room sponsored by VMware
 
 
@@ -93,27 +132,42 @@ ng-game room sponsored by VMware
 -------
 
 Typescript
+
 Promises are probably older than you.
+
 ​Pipe Hype
+
 Multi-Slot Transclusion
+
 Animations
+
 Learn Clingon
+
 Angular 2 for the rest of us
+
 React Native
 
 Reactive Programming, changing the world at Netflix, Microsoft, Slack and beyond!
+
 Async data patterns with AngularFire
+
 Unhappiness at Work
+
 Demystifying Decorators
+
 Becoming an Angular 2 Contributor
 
 Reactive Angular2 with ngRx
-It's Just a Textbox, What Could Go Wrong?: Angular 2 Forms and Validation
-Automated Angular 2 Style Checking with Codelyzer
-Enhancing performance without steroids
-Code Generation
-Angular Team Panel/QA
 
+It's Just a Textbox, What Could Go Wrong?: Angular 2 Forms and Validation
+
+Automated Angular 2 Style Checking with Codelyzer
+
+Enhancing performance without steroids
+
+Code Generation
+
+Angular Team Panel/QA
 
 
 ### <a name="other-confs"> 其他会议和Topics
