@@ -55,6 +55,7 @@
 - [Material2 - ng2 Material Design组件库](https://github.com/angular/material2)
 - [NG-LIGHTNING - ng2 组件与指令库](http://ng-lightning.github.io/ng-lightning/)
 - [Wijmo - ng2 UI控件库](http://wijmo.com/angular2/)
+- [Vaadin - 类Material Design UI组件库，支持移动端与PC端设计](https://vaadin.com/elements)
 
 ### 代码风格指南
 
