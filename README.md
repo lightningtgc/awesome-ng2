@@ -53,6 +53,8 @@
 
 - [PrimeNG - ng2 UI组件库集合](http://www.primefaces.org/primeng/)
 - [Material2 - ng2 Material Design组件库](https://github.com/angular/material2)
+- [NG-LIGHTNING - ng2 组件与指令库](http://ng-lightning.github.io/ng-lightning/)
+- [Wijmo - ng2 UI控件库](http://wijmo.com/angular2/)
 
 ### 代码风格指南
 
@@ -66,7 +68,7 @@
 
 ### 工具
 - [Codelyzer - 基于tslint的静态代码分析工具](https://github.com/mgechev/codelyzer)
-- 
+- [Universal Angular 2 - ng2服务端渲染](https://github.com/angular/universal)
 
 ### 演讲分享
 - #### 国内技术大会
