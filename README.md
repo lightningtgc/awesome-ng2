@@ -64,6 +64,10 @@
 - [Angular2疑难 所有人问所有人（中文版）](https://github.com/kittencup/angular2-ama-cn)
 - [angular2-education (NG2-资料集)](https://github.com/timjacobi/angular2-education)
 
+### 工具
+- [Codelyzer - 基于tslint的静态代码分析工具](https://github.com/mgechev/codelyzer)
+- 
+
 ### 演讲分享
 - #### 国内技术大会
  - [剖析 Angular 2 - 汤桂川](http://slides.com/tangguichuan/dissect-angular2/#/)
