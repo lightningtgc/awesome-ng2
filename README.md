@@ -69,6 +69,7 @@
 - [angular2-education (NG2-资料集)](https://github.com/timjacobi/angular2-education)
 
 ### 工具
+- [Augury - 官方的调试工具 Chrome插件](https://github.com/rangle/augury)
 - [Codelyzer - 基于tslint的静态代码分析工具](https://github.com/mgechev/codelyzer)
 - [Universal Angular 2 - ng2服务端渲染](https://github.com/angular/universal)
 
