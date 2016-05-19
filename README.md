@@ -90,17 +90,24 @@ Angular2（以下也称为ng2）资源大全，收集ng2周边生态圈的各种
 - [Angular2 Go - 起步工程](https://github.com/johnpapa/angular2-go)
 
 ### 跨多端工程项目
-- [React Native Renderer - 使用ng2跟RN开发iOS与Android应用程序](https://github.com/angular/react-native-renderer)
-
+- [React Native](https://facebook.github.io/react-native/)
+ - [React Native Renderer - 使用ng2跟RN开发iOS与Android应用程序](https://github.com/angular/react-native-renderer)
 - [NativeScript](https://www.nativescript.org/)
  - [NativeScript Angular2 - 整合NS与ng2](https://github.com/NativeScript/nativescript-angular)
  - [NativeScript Hello World示例项目](https://github.com/NativeScript/template-hello-world-ng)
-
 
 ### 演讲分享
 - #### 国内技术大会
  - [剖析 Angular 2 - 汤桂川](http://slides.com/tangguichuan/dissect-angular2/#/)
 
-- #### Angular Connect
-Youtube （需科学上网）:
- - [NativeScript session on AngularConnect conference](https://www.youtube.com/watch?v=4SbiiyRSIwo)
+- #### Angular Connect大会
+Youtube （需科学上网，英文）:
+ - [使用ng2和NativeScript构建原生移动端APP - Sebastian Witalec](https://www.youtube.com/watch?v=4SbiiyRSIwo)
+ - [使用Batarangle调试ng2应用程序 -  Yuri Takhteyev and Igor Krivanov](https://www.youtube.com/watch?v=cAC4d3KIQcM)
+ - [使用Firebase和ng2构建应用程序 - Sara Robinson](https://www.youtube.com/watch?v=RD0xYicNcaY)
+ - [使用ng2和Meteor打造实时应用程序- Uri Goldshtein](https://www.youtube.com/watch?v=3FT0BqYASCo)
+ - [ng2数据流动 - Jeff Cross, Rob Wormald and Alex Rickabaugh](https://www.youtube.com/watch?v=bVI5gGTEQ_U)
+ - [ng2:更优的理念，更少的代码 - Victor Savkin and Tobias Bosch](https://www.youtube.com/watch?v=4YmnbGoh49U)
+ - [ng2应用程序的模块化与打包机制 – Pawel Kozlowski](https://www.youtube.com/watch?v=9odY9Rh5kTQ)
+ - [ng2的测试攻略– Julie Ralph](https://www.youtube.com/watch?v=C0F2E-PRm44)
+
