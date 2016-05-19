@@ -1,4 +1,14 @@
-# Awesome ng2
+# Awesome ng2 - 中文版本 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+Angular2（也称为ng2）资源大全，收集ng2周边生态圈的各种资料，包括图书，教程，视频，脚手架等等内容。
+
+##### ng2当前最新版本:
+[![Angular2 当前版本状况](https://badge.fury.io/js/angular2.svg)](http://badge.fury.io/js/angular2)
+
+##### Angular 2 最新浏览器支持情况:
+[![Angular 2浏览器支持情况](https://saucelabs.com/browser-matrix/angular2-ci.svg)](https://saucelabs.com/u/angular2-ci)
+
+
 
 ### 目录
 
