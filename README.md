@@ -32,17 +32,19 @@
 - [Practical Angular 2](https://leanpub.com/practical-angular-2)
 
 ### 视频
-- [egghead.io](https://egghead.io/technologies/angular2)
-- [Angular 2: First Look - Pluralsight 课程](https://www.pluralsight.com/courses/angular-2-first-look)
+- [Angular 2系列课程 - egghead.io](https://egghead.io/technologies/angular2)
+- [Angular 2: First Look - Pluralsight > 可免费试听](https://www.pluralsight.com/courses/angular-2-first-look)
 - [Angular2 Getting Started - Pluralsight 课程](https://www.pluralsight.com/courses/angular-2-getting-started)
 
-#### 收费视频
-- [The Complete Guide to Angular 2 - udemy](https://www.udemy.com/the-complete-guide-to-angular-2/)
-- [Angular 2 with TypeScript for Beginners: The Pragmatic Guide - udemy](https://www.udemy.com/angular-2-tutorial-for-beginners/)
-- 
+##### 收费视频
+- udemy
+ - [The Complete Guide to Angular 2 - Angualr2 大全](https://www.udemy.com/the-complete-guide-to-angular-2/)
+ - [Angular 2 with TypeScript for Beginners: The Pragmatic Guide](https://www.udemy.com/angular-2-tutorial-for-beginners/)
+ - [Angular 2 Fundamentals - 基本原理](https://www.udemy.com/angular-2-fundamentals/)
+ - [Angular 2 Master Class with Alejandro Rangel](https://www.udemy.com/angular-2-master-class-with-alejandro-rangel/)
+ - [Angular 2 Demystified - 揭秘](https://www.udemy.com/introduction-to-angular2/)
 
 ### 脚手架
-
 - [angular2-seed](https://github.com/angular/angular2-seed)
 - [angular2-seed 结合Gulp.js](https://github.com/mgechev/angular2-seed)
 - [angular2-webpack-starter](https://github.com/AngularClass/angular2-webpack-starter)
