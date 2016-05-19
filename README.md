@@ -61,7 +61,9 @@
 - [Vaadin - 类Material Design UI组件库，支持移动端与PC端设计](https://vaadin.com/elements)
 
 ### 代码风格指南
-- [Angular2 代码风格指南](https://github.com/mgechev/angular2-style-guide)
+- [ng2代码风格指南 - Angular官方团队](https://angular.io/docs/ts/latest/guide/style-guide.html)
+- [ng2代码风格指南 - mgechev](https://github.com/mgechev/angular2-style-guide)
+- [ng2代码风格指南 - John Papa（著有极多star的ng 1.x的angular-styleguide）](https://github.com/johnpapa/angular-styleguide/blob/master/a2/notes.md)
 - [Codelyzer - ng2代码质量检查工具](https://github.com/mgechev/codelyzer)
 - [TypeScript代码质量检查工具](https://github.com/palantir/tslint)
 
