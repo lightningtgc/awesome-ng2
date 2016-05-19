@@ -1,6 +1,6 @@
 # Awesome ng2 - 中文版本 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Angular2（以下也称为ng2）资源大全，收集ng2周边生态圈的各种资料，包括图书，教程，视频，脚手架等等内容。
+> Angular2（以下也称为ng2）资源大全，收集ng2周边生态圈的各种资料，包括图书，教程，视频，脚手架等等内容。
 
 ##### ng2当前最新版本:
 [![Angular2 当前版本状况](https://badge.fury.io/js/angular2.svg)](http://badge.fury.io/js/angular2)
@@ -85,9 +85,10 @@ Angular2（以下也称为ng2）资源大全，收集ng2周边生态圈的各种
 - [Universal Angular 2 - ng2服务端渲染](https://github.com/angular/universal)
 
 ### 示例项目与代码
-可用于学习借鉴
+> 可用于学习借鉴
 - [ng2 TodoMVC](https://github.com/tastejs/todomvc/tree/master/examples/angular2)
 - [Angular2 Go - 起步工程](https://github.com/johnpapa/angular2-go)
+- [ng2 Dart 示例工程集合](https://github.com/ng2-dart-samples)
 
 ### 跨多端工程项目
 - [React Native](https://facebook.github.io/react-native/)
@@ -99,9 +100,9 @@ Angular2（以下也称为ng2）资源大全，收集ng2周边生态圈的各种
 ### 演讲分享
 - #### 国内技术大会
  - [剖析 Angular 2 - 汤桂川](http://slides.com/tangguichuan/dissect-angular2/#/)
-
+ 
 - #### Angular Connect大会
-Youtube （需科学上网，英文）:
+> Youtube （需科学上网，英文）:
  - [使用ng2和NativeScript构建原生移动端APP - Sebastian Witalec](https://www.youtube.com/watch?v=4SbiiyRSIwo)
  - [使用Batarangle调试ng2应用程序 -  Yuri Takhteyev and Igor Krivanov](https://www.youtube.com/watch?v=cAC4d3KIQcM)
  - [使用Firebase和ng2构建应用程序 - Sara Robinson](https://www.youtube.com/watch?v=RD0xYicNcaY)
