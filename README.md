@@ -1,6 +1,6 @@
 # Awesome ng2 - 中文版本 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Angular2（也称为ng2）资源大全，收集ng2周边生态圈的各种资料，包括图书，教程，视频，脚手架等等内容。
+Angular2（以下也称为ng2）资源大全，收集ng2周边生态圈的各种资料，包括图书，教程，视频，脚手架等等内容。
 
 ##### ng2当前最新版本:
 [![Angular2 当前版本状况](https://badge.fury.io/js/angular2.svg)](http://badge.fury.io/js/angular2)
@@ -20,8 +20,6 @@ Angular2（也称为ng2）资源大全，收集ng2周边生态圈的各种资料
 - [API文档](https://angular.io/docs/js/latest/api/)
 - [Github地址](https://github.com/angular/angular)
 
-
-
 ### 入门资料
 - [5分钟快速入门](https://angular.io/docs/ts/latest/quickstart.html)
 - [Angular2开发指南 - 翻译系列](https://github.com/gf-rd/blog/issues/21)
@@ -29,10 +27,10 @@ Angular2（也称为ng2）资源大全，收集ng2周边生态圈的各种资料
 - [Angular2 简介](http://zhuanlan.zhihu.com/p/20058966)
 
 ### 博客
-- [广发证券技术博客](https://github.com/gf-rd/blog/issues)
 - [blogspot](http://angularjs.blogspot.com/)
 - [VICTOR SAVKIN - ng2核心开发成员个人博客](http://victorsavkin.com/)
 - [thoughtram - ng2合作团队博客](http://blog.thoughtram.io/)
+- [广发证券技术博客](https://github.com/gf-rd/blog/issues)
 
 ### 电子书
 - [ng-book 2](https://www.ng-book.com/2/)
@@ -86,8 +84,23 @@ Angular2（也称为ng2）资源大全，收集ng2周边生态圈的各种资料
 - [Codelyzer - 基于tslint的静态代码分析工具](https://github.com/mgechev/codelyzer)
 - [Universal Angular 2 - ng2服务端渲染](https://github.com/angular/universal)
 
+### 示例项目与代码
+可用于学习借鉴
+- [ng2 TodoMVC](https://github.com/tastejs/todomvc/tree/master/examples/angular2)
+- [Angular2 Go - 起步工程](https://github.com/johnpapa/angular2-go)
+
+### 跨多端工程项目
+- [React Native Renderer - 使用ng2跟RN开发iOS与Android应用程序](https://github.com/angular/react-native-renderer)
+
+- [NativeScript](https://www.nativescript.org/)
+ - [NativeScript Angular2 - 整合NS与ng2](https://github.com/NativeScript/nativescript-angular)
+ - [NativeScript Hello World示例项目](https://github.com/NativeScript/template-hello-world-ng)
+
+
 ### 演讲分享
 - #### 国内技术大会
  - [剖析 Angular 2 - 汤桂川](http://slides.com/tangguichuan/dissect-angular2/#/)
 
 - #### Angular Connect
+Youtube （需科学上网）:
+ - [NativeScript session on AngularConnect conference](https://www.youtube.com/watch?v=4SbiiyRSIwo)
