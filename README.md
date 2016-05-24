@@ -60,6 +60,7 @@
 - [angular2-cli](https://github.com/angular/angular-cli)
 - [angular2-esnext-starter](https://github.com/blacksonic/angular2-esnext-starter)（仅面向ES6/7，不支持typescript）
 - [angular2-minimalist-starter](https://github.com/rogerpadilla/angular2-minimalist-starter)
+- [babel-angular2-app (Babel, Browserify)](https://github.com/shuhei/babel-angular2-app)
 
 ### UI组件
 - [NG2 Bootstrap - 样式库](http://valor-software.com/ng2-bootstrap/)
