@@ -43,9 +43,10 @@
 - [Angular 2系列课程 - egghead.io](https://egghead.io/technologies/angular2)
 - [Angular 2: First Look - Pluralsight > 可免费试听](https://www.pluralsight.com/courses/angular-2-first-look)
 - [Angular2 Getting Started - Pluralsight 课程](https://www.pluralsight.com/courses/angular-2-getting-started)
-- ##### udemy （收费视频）
+
+- udemy （收费视频）
  - [The Complete Guide to Angular 2 - Angualr2 大全](https://www.udemy.com/the-complete-guide-to-angular-2/)
- - [Angular 2 with TypeScript for Beginners: The Pragmatic Guide](https://www.udemy.com/angular-2-tutorial-for-beginners/)
+ - [Angular 2 with TypeScript for Beginners - 实用指南](https://www.udemy.com/angular-2-tutorial-for-beginners/)
  - [Angular 2 Fundamentals - 基本原理](https://www.udemy.com/angular-2-fundamentals/)
  - [Angular 2 Master Class with Alejandro Rangel](https://www.udemy.com/angular-2-master-class-with-alejandro-rangel/)
  - [Angular 2 Demystified - 揭秘](https://www.udemy.com/introduction-to-angular2/)
@@ -105,7 +106,7 @@
 - #### 国内技术大会
  - [剖析 Angular 2 - 汤桂川](http://slides.com/tangguichuan/dissect-angular2/#/)
  
-- #### Angular Connect大会
+- #### [Angular Connect 大会](http://angularconnect.com/)
 > Youtube （需科学上网，英文）:
  - [使用ng2和NativeScript构建原生移动端APP - Sebastian Witalec](https://www.youtube.com/watch?v=4SbiiyRSIwo)
  - [使用Batarangle调试ng2应用程序 -  Yuri Takhteyev and Igor Krivanov](https://www.youtube.com/watch?v=cAC4d3KIQcM)
@@ -116,3 +117,7 @@
  - [ng2应用程序的模块化与打包机制 – Pawel Kozlowski](https://www.youtube.com/watch?v=9odY9Rh5kTQ)
  - [ng2的测试攻略– Julie Ralph](https://www.youtube.com/watch?v=C0F2E-PRm44)
 
+- #### [ng-europe 大会](https://ngeurope.org/)
+
+
+- #### [NG-CONF 大会](https://www.ng-conf.org/#/)
