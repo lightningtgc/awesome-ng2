@@ -59,6 +59,7 @@
 - [angular2-seed-advanced](https://github.com/NathanWalker/angular2-seed-advanced)
 - [angular2-cli](https://github.com/angular/angular-cli)
 - [angular2-esnext-starter](https://github.com/blacksonic/angular2-esnext-starter)（仅面向ES6/7，不支持typescript）
+- [angular2-minimalist-starter](https://github.com/rogerpadilla/angular2-minimalist-starter)
 
 ### UI组件
 - [NG2 Bootstrap - 样式库](http://valor-software.com/ng2-bootstrap/)
