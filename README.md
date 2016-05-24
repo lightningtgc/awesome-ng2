@@ -43,9 +43,7 @@
 - [Angular 2系列课程 - egghead.io](https://egghead.io/technologies/angular2)
 - [Angular 2: First Look - Pluralsight > 可免费试听](https://www.pluralsight.com/courses/angular-2-first-look)
 - [Angular2 Getting Started - Pluralsight 课程](https://www.pluralsight.com/courses/angular-2-getting-started)
-
-##### 收费视频
-- udemy
+- ##### udemy （收费视频）
  - [The Complete Guide to Angular 2 - Angualr2 大全](https://www.udemy.com/the-complete-guide-to-angular-2/)
  - [Angular 2 with TypeScript for Beginners: The Pragmatic Guide](https://www.udemy.com/angular-2-tutorial-for-beginners/)
  - [Angular 2 Fundamentals - 基本原理](https://www.udemy.com/angular-2-fundamentals/)
