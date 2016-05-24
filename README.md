@@ -61,6 +61,7 @@
 - [angular2-esnext-starter](https://github.com/blacksonic/angular2-esnext-starter)（仅面向ES6/7，不支持typescript）
 - [angular2-minimalist-starter](https://github.com/rogerpadilla/angular2-minimalist-starter)
 - [babel-angular2-app (Babel, Browserify)](https://github.com/shuhei/babel-angular2-app)
+- [angular2-webpack (结合webpack，测试规范等比较齐全)](https://github.com/preboot/angular2-webpack)
 
 ### UI组件
 - [NG2 Bootstrap - 样式库](http://valor-software.com/ng2-bootstrap/)
@@ -90,18 +91,23 @@
 > 可用于学习借鉴
 
 - [ng2 TodoMVC](https://github.com/tastejs/todomvc/tree/master/examples/angular2)
+- [ng2和TypeScript JumpStart 示例 - 覆盖大量语法](https://github.com/DanWahlin/Angular2-JumpStart)
 - [ng2 股票组合追踪项目](https://github.com/paulhoughton/portfolio/)
 - [Angular2 Go - 起步工程](https://github.com/johnpapa/angular2-go)
 - [ng2 Dart 示例工程集合](https://github.com/ng2-dart-samples)
+- [angular2-tour-of-heroes (示例项目学习)](https://github.com/johnpapa/angular2-tour-of-heroes)
+
 - 游戏相关
  - [ng-go(ng2 围棋游戏)](https://github.com/lys1030/ng-go)
 
 ### 跨多端工程项目
 - [React Native - 开发iOS与Android应用](https://facebook.github.io/react-native/)
  - [React Native Renderer - 使用ng2跟RN开发iOS与Android应用程序](https://github.com/angular/react-native-renderer)
+ 
 - [NativeScript - 开发移动端应用](https://www.nativescript.org/)
  - [NativeScript Angular2 - 整合NS与ng2](https://github.com/NativeScript/nativescript-angular)
  - [NativeScript Hello World示例项目](https://github.com/NativeScript/template-hello-world-ng)
+ 
 - [electron - 开发电脑端应用](http://electron.atom.io/)
  - [angular-electron](https://github.com/angular/angular-electron)
 
