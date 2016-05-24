@@ -91,6 +91,8 @@
 - [ng2 TodoMVC](https://github.com/tastejs/todomvc/tree/master/examples/angular2)
 - [Angular2 Go - 起步工程](https://github.com/johnpapa/angular2-go)
 - [ng2 Dart 示例工程集合](https://github.com/ng2-dart-samples)
+- 游戏相关
+ - [ng-go(ng2 围棋游戏)](https://github.com/lys1030/ng-go)
 
 ### 跨多端工程项目
 - [React Native](https://facebook.github.io/react-native/)
