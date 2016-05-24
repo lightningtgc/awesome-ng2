@@ -19,6 +19,7 @@
 - [开发文档](https://angular.io/docs/js/latest/)
 - [API文档](https://angular.io/docs/js/latest/api/)
 - [Github地址](https://github.com/angular/angular)
+- [ng2 CLI工具](https://github.com/angular/angular-cli)
 
 ### 入门资料
 - [5分钟快速入门](https://angular.io/docs/ts/latest/quickstart.html)
@@ -96,11 +97,13 @@
  - [ng-go(ng2 围棋游戏)](https://github.com/lys1030/ng-go)
 
 ### 跨多端工程项目
-- [React Native](https://facebook.github.io/react-native/)
+- [React Native - 开发iOS与Android应用](https://facebook.github.io/react-native/)
  - [React Native Renderer - 使用ng2跟RN开发iOS与Android应用程序](https://github.com/angular/react-native-renderer)
-- [NativeScript](https://www.nativescript.org/)
+- [NativeScript - 开发移动端应用](https://www.nativescript.org/)
  - [NativeScript Angular2 - 整合NS与ng2](https://github.com/NativeScript/nativescript-angular)
  - [NativeScript Hello World示例项目](https://github.com/NativeScript/template-hello-world-ng)
+- [electron - 开发电脑端应用](http://electron.atom.io/)
+ - [angular-electron](https://github.com/angular/angular-electron)
 
 ### 演讲分享
 - #### 国内技术大会
