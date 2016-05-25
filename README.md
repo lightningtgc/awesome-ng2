@@ -139,7 +139,8 @@
  - [ng2的测试攻略– Julie Ralph](https://www.youtube.com/watch?v=C0F2E-PRm44)
 
 - #### [ng-europe 大会](https://ngeurope.org/)
-
+ - 2014:Youtube
+ - [Angular 2.0 core - Igor Minar,Tobias Bosch](https://www.youtube.com/watch?v=gNmWybAyBHI)
 
 - #### [NG-CONF 大会](https://www.ng-conf.org/#/)
  - 2014：Youtube
@@ -153,7 +154,6 @@
  - [ngRx：响应式的Angular2 - Rob Womald](https://www.youtube.com/watch?v=mhA7zZ23Odw)
  - [ng2 处理样式的新方式(偏CSS相关)- Justin Schwartzenberger](https://www.youtube.com/watch?v=J5Bvy4KhIs0)
  - [在Web和原生Apps中共享代码(演讲者造型很萌) - Jen Looper, TJ VanToll](https://www.youtube.com/watch?v=R3nyG2xtzeQ)
- - 
  
 ### 贡献者
 
