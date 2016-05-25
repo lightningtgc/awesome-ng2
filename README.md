@@ -16,7 +16,7 @@
 
 
 
-#### 官方资源
+### 官方资源
 - [Angular 2官网](https://angular.io/)
 - [开发文档](https://angular.io/docs/js/latest/)
 - [API文档](https://angular.io/docs/js/latest/api/)
@@ -30,7 +30,7 @@
 
 ### 教程
 - [learn-angular2 (通过实例一步步学习ng2)](https://github.com/panacloud/learn-angular2)
-- [learn-typescript)](https://github.com/panacloud/learn-typescript)
+- [learn-typescript](https://github.com/panacloud/learn-typescript)
 - [learn-typed-rxjs](https://github.com/panacloud/learn-typed-rxjs)
 - [Angular2 入门 - hubwiz](http://www.hubwiz.com/course/5599d367a164dd0d75929c76/)
 
@@ -83,7 +83,6 @@
 - [ng2代码风格指南 - Angular官方团队](https://angular.io/docs/ts/latest/guide/style-guide.html)
 - [ng2代码风格指南 - mgechev](https://github.com/mgechev/angular2-style-guide)
 - [ng2代码风格指南 - John Papa（著有极多star的ng 1.x的angular-styleguide）](https://github.com/johnpapa/angular-styleguide/blob/master/a2/notes.md)
-- [Codelyzer - ng2代码质量检查工具](https://github.com/mgechev/codelyzer)
 - [TypeScript代码质量检查工具](https://github.com/palantir/tslint)
 
 ### 社区
@@ -154,5 +153,16 @@
  - [ngRx：响应式的Angular2 - Rob Womald](https://www.youtube.com/watch?v=mhA7zZ23Odw)
  - [ng2 处理样式的新方式(偏CSS相关)- Justin Schwartzenberger](https://www.youtube.com/watch?v=J5Bvy4KhIs0)
  - [在Web和原生Apps中共享代码(演讲者造型很萌) - Jen Looper, TJ VanToll](https://www.youtube.com/watch?v=R3nyG2xtzeQ)
+ - 
+ 
+### 贡献者
+
+> 诚邀社区一起参与建设此项目，给后来者提供更好的学习环境。
+
+贡献者列表：
+
+- [汤桂川_gc](https://github.com/lightningtgc)
+- []()
+
  
 
