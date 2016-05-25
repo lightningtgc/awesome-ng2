@@ -2,6 +2,8 @@
 
 > Angular2（以下也称为ng2）资源大全，收集ng2周边生态圈的各种资料，包括图书，教程，视频，脚手架等等内容。
 
+> 由广发证券互联网金融研发团队倾情奉献
+
 ##### ng2当前最新版本:
 [![Angular2 当前版本状况](https://badge.fury.io/js/angular2.svg)](http://badge.fury.io/js/angular2)
 
@@ -91,6 +93,10 @@
 - [Augury - 官方的调试工具 Chrome插件](https://github.com/rangle/augury)
 - [Codelyzer - 基于tslint的静态代码分析工具](https://github.com/mgechev/codelyzer)
 - [Universal Angular 2 - ng2服务端渲染](https://github.com/angular/universal)
+- 编辑器IDE
+ - [Sublime Text - ng2代码片段包](https://github.com/evanplaice/angular2-snippets)
+ - [Webstorm - ng2代码模板](https://github.com/d3viant0ne/angular2-webstorm-templates)
+ 
 
 ### 示例项目与代码
 > 可用于学习借鉴
@@ -101,6 +107,7 @@
 - [Angular2 Go - 起步工程](https://github.com/johnpapa/angular2-go)
 - [ng2 Dart 示例工程集合](https://github.com/ng2-dart-samples)
 - [angular2-tour-of-heroes (示例项目学习)](https://github.com/johnpapa/angular2-tour-of-heroes)
+- [谷歌地图的n2指令](https://github.com/SebastianM/angular2-google-maps)
 
 - 游戏相关
  - [ng-go(ng2 围棋游戏)](https://github.com/lys1030/ng-go)
@@ -135,3 +142,11 @@
 
 
 - #### [NG-CONF 大会](https://www.ng-conf.org/#/)
+ - 2014：Youtube
+ - [Zone.js介绍 - Brian Ford](https://www.youtube.com/watch?v=3IqtmUscE_U)
+ 
+ - 2016
+ - [ng2原力觉醒 - John Papa](https://www.youtube.com/watch?v=WAPQF_GA7Qg)
+ - [Material UI组件: Titanium Octopus - Kara Erickson, Jeremy Elbourn](https://www.youtube.com/watch?v=rRiV_b3WsoY)
+ 
+
