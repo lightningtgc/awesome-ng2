@@ -145,8 +145,13 @@
  - 2014：Youtube
  - [Zone.js介绍 - Brian Ford](https://www.youtube.com/watch?v=3IqtmUscE_U)
  
- - 2016
+ - 2016：Youtube
  - [ng2原力觉醒 - John Papa](https://www.youtube.com/watch?v=WAPQF_GA7Qg)
- - [Material UI组件: Titanium Octopus - Kara Erickson, Jeremy Elbourn](https://www.youtube.com/watch?v=rRiV_b3WsoY)
+ - [Material UI组件:Titanium Octopus - Kara Erickson, Jeremy Elbourn](https://www.youtube.com/watch?v=rRiV_b3WsoY)
+ - [Typescript: Angular 2的秘密武器- Dan Wahlin](https://www.youtube.com/watch?v=e3djIqAGqZo)
+ - [ng2 Universal 模式 - Jeffrey Whelpey, Patrick Stapleton](https://www.youtube.com/watch?v=TCj_oC3m6_U)
+ - [ngRx：响应式的Angular2 - Rob Womald](https://www.youtube.com/watch?v=mhA7zZ23Odw)
+ - [ng2 处理样式的新方式(偏CSS相关)- Justin Schwartzenberger](https://www.youtube.com/watch?v=J5Bvy4KhIs0)
+ - [在Web和原生Apps中共享代码(演讲者造型很萌) - Jen Looper, TJ VanToll](https://www.youtube.com/watch?v=R3nyG2xtzeQ)
  
 
