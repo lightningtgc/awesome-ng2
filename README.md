@@ -129,6 +129,8 @@
 - [electron - 开发电脑端应用](http://electron.atom.io/)
  - [angular-electron](https://github.com/angular/angular-electron)
 
+- [Ionic@beta - 开发iOS与Android应用](http://ionicframework.com/docs/v2/)
+ - [Ionic](https://github.com/driftyco)
 ### 演讲分享
 - #### 国内技术大会
  - [剖析 Angular 2 - 汤桂川](http://slides.com/tangguichuan/dissect-angular2/#/)
