@@ -102,6 +102,7 @@
 - 编辑器IDE
  - [Sublime Text - ng2代码片段包](https://github.com/evanplaice/angular2-snippets)
  - [Webstorm - ng2代码模板](https://github.com/d3viant0ne/angular2-webstorm-templates)
+ - [Visual Studio Code - ng2代码片段包](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2)
  
 
 ### 示例项目与代码
