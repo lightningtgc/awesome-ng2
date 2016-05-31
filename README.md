@@ -28,12 +28,14 @@
 - [Angular2开发指南 - 翻译系列](https://github.com/gf-rd/blog/issues/21)
 - [Angular2 简介](http://zhuanlan.zhihu.com/p/20058966)
 - [Getting Started with Angular 2.0](http://thejackalofjavascript.com/getting-started-with-angular-2-0/)
+- [Angular2 - 官方中文译文](http://www.angular.live/)
 
 ### 教程
 - [learn-angular2 (通过实例一步步学习ng2)](https://github.com/panacloud/learn-angular2)
 - [learn-typescript](https://github.com/panacloud/learn-typescript)
 - [learn-typed-rxjs](https://github.com/panacloud/learn-typed-rxjs)
 - [Angular2 入门 - 汇智网（国内）](http://www.hubwiz.com/course/5599d367a164dd0d75929c76/)
+- [learn angular2](http://learnangular2.com/)
 
 ### 博客
 - [blogspot](http://angularjs.blogspot.com/)
@@ -42,6 +44,7 @@
 - [广发证券技术博客](https://github.com/gf-rd/blog/issues)
 - [ng-learn - ng2博文系列](http://ng-learn.org/tags/angularjs-2.html)
 - [Angular Tips](http://angular-tips.com/)
+- [angular-2-articles](http://www.syntaxsuccess.com/angular-2-articles)
 
 ### 电子书
 - [ng-book 2](https://www.ng-book.com/2/)
@@ -127,6 +130,9 @@
 - [electron - 开发电脑端应用](http://electron.atom.io/)
  - [angular-electron](https://github.com/angular/angular-electron)
 
+- [Ionic@beta - 开发iOS与Android应用](http://ionicframework.com/docs/v2/)
+ - [Ionic](https://github.com/driftyco)
+
 ### 演讲分享
 - #### 国内技术大会
  - [剖析 Angular 2 - 汤桂川](http://slides.com/tangguichuan/dissect-angular2/#/)
@@ -166,7 +172,6 @@
 贡献者列表：
 
 - [汤桂川_gc](https://github.com/lightningtgc)
-- []()
 
  
 
