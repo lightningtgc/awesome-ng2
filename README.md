@@ -45,6 +45,7 @@
 - [ng-learn - ng2博文系列](http://ng-learn.org/tags/angularjs-2.html)
 - [Angular Tips](http://angular-tips.com/)
 - [angular-2-articles](http://www.syntaxsuccess.com/angular-2-articles)
+- [Todd Motto](https://toddmotto.com/)
 
 ### 电子书
 - [ng-book 2](https://www.ng-book.com/2/)
