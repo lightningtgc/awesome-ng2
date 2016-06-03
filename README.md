@@ -46,6 +46,7 @@
 - [Angular Tips](http://angular-tips.com/)
 - [angular-2-articles](http://www.syntaxsuccess.com/angular-2-articles)
 - [Todd Motto](https://toddmotto.com/)
+- [Oren Farhi](http://orizens.com/)
 
 ### 电子书
 - [ng-book 2](https://www.ng-book.com/2/)
