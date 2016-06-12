@@ -124,6 +124,7 @@
 
 ### 跨多端工程项目
 - [React Native - 开发iOS与Android应用](https://facebook.github.io/react-native/)
+ - [Angular 2 + React Native - 文章介绍](https://angularjs.blogspot.com/2016/04/angular-2-react-native.html)
  - [React Native Renderer - 使用ng2跟RN开发iOS与Android应用程序](https://github.com/angular/react-native-renderer)
  
 - [NativeScript - 开发移动端应用](https://www.nativescript.org/)
