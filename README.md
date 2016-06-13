@@ -5,7 +5,7 @@
 > 由广发证券互联网金融研发团队倾情奉献
 
 ##### ng2当前最新版本:
-[![Angular2 当前版本状况](https://badge.fury.io/js/angular2.svg)](http://badge.fury.io/js/angular2)
+[![Angular2 当前版本状况](https://badge.fury.io/js/%40angular%2Fcore.svg)](https://www.npmjs.com/~angular)
 
 ##### Angular 2 最新浏览器支持情况:
 [![Angular 2浏览器支持情况](https://saucelabs.com/browser-matrix/angular2-ci.svg)](https://saucelabs.com/u/angular2-ci)
@@ -45,6 +45,8 @@
 - [ng-learn - ng2博文系列](http://ng-learn.org/tags/angularjs-2.html)
 - [Angular Tips](http://angular-tips.com/)
 - [angular-2-articles](http://www.syntaxsuccess.com/angular-2-articles)
+- [hotJS Angular2 ](https://www.hotjs.net/skills/angular2/resources)
+- [awesome-angular2](https://github.com/AngularClass/awesome-angular2)
 - [Todd Motto](https://toddmotto.com/)
 - [Oren Farhi](http://orizens.com/)
 
@@ -96,6 +98,7 @@
 ### 社区
 - [Angular2疑难 所有人问所有人（中文版）](https://github.com/kittencup/angular2-ama-cn)
 - [angular2-education (NG2-资料集)](https://github.com/timjacobi/angular2-education)
+- [Angular2社区 收集较多的问题解决方案](http://www.zai.io/)
 - [Reddit - Angular2板块](https://www.reddit.com/r/Angular2/)
 
 ### 工具
