@@ -94,6 +94,7 @@
 ### 社区
 - [Angular2疑难 所有人问所有人（中文版）](https://github.com/kittencup/angular2-ama-cn)
 - [angular2-education (NG2-资料集)](https://github.com/timjacobi/angular2-education)
+- [Angular2社区 收集较多的问题解决方案](http://www.zai.io/)
 
 ### 工具
 - [Augury - 官方的调试工具 Chrome插件](https://github.com/rangle/augury)
