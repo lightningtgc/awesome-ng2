@@ -5,7 +5,7 @@
 > 由广发证券互联网金融研发团队倾情奉献
 
 ##### ng2当前最新版本:
-[![Angular2 当前版本状况](https://badge.fury.io/js/angular2.svg)](http://badge.fury.io/js/angular2)
+[![Angular2 当前版本状况](https://camo.githubusercontent.com/3cb4eb3c991f38eddc8092d7d9c8c5b5d8888a33/68747470733a2f2f62616467652e667572792e696f2f6a732f253430616e67756c6172253246636f72652e737667)](https://camo.githubusercontent.com/3cb4eb3c991f38eddc8092d7d9c8c5b5d8888a33/68747470733a2f2f62616467652e667572792e696f2f6a732f253430616e67756c6172253246636f72652e737667)
 
 ##### Angular 2 最新浏览器支持情况:
 [![Angular 2浏览器支持情况](https://saucelabs.com/browser-matrix/angular2-ci.svg)](https://saucelabs.com/u/angular2-ci)
@@ -45,6 +45,8 @@
 - [ng-learn - ng2博文系列](http://ng-learn.org/tags/angularjs-2.html)
 - [Angular Tips](http://angular-tips.com/)
 - [angular-2-articles](http://www.syntaxsuccess.com/angular-2-articles)
+- [hotJS Angular2 ](https://www.hotjs.net/skills/angular2/resources)
+- [awesome-angular2](https://github.com/AngularClass/awesome-angular2)
 
 ### 电子书
 - [ng-book 2](https://www.ng-book.com/2/)
