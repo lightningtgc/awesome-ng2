@@ -5,7 +5,7 @@
 > 由广发证券互联网金融研发团队倾情奉献
 
 ##### ng2当前最新版本:
-[![Angular2 当前版本状况](https://camo.githubusercontent.com/3cb4eb3c991f38eddc8092d7d9c8c5b5d8888a33/68747470733a2f2f62616467652e667572792e696f2f6a732f253430616e67756c6172253246636f72652e737667)](https://camo.githubusercontent.com/3cb4eb3c991f38eddc8092d7d9c8c5b5d8888a33/68747470733a2f2f62616467652e667572792e696f2f6a732f253430616e67756c6172253246636f72652e737667)
+[![Angular2 当前版本状况](https://badge.fury.io/js/%40angular%2Fcore.svg)](https://www.npmjs.com/~angular)
 
 ##### Angular 2 最新浏览器支持情况:
 [![Angular 2浏览器支持情况](https://saucelabs.com/browser-matrix/angular2-ci.svg)](https://saucelabs.com/u/angular2-ci)
@@ -47,6 +47,8 @@
 - [angular-2-articles](http://www.syntaxsuccess.com/angular-2-articles)
 - [hotJS Angular2 ](https://www.hotjs.net/skills/angular2/resources)
 - [awesome-angular2](https://github.com/AngularClass/awesome-angular2)
+- [Todd Motto](https://toddmotto.com/)
+- [Oren Farhi](http://orizens.com/)
 
 ### 电子书
 - [ng-book 2](https://www.ng-book.com/2/)
@@ -97,6 +99,7 @@
 - [Angular2疑难 所有人问所有人（中文版）](https://github.com/kittencup/angular2-ama-cn)
 - [angular2-education (NG2-资料集)](https://github.com/timjacobi/angular2-education)
 - [Angular2社区 收集较多的问题解决方案](http://www.zai.io/)
+- [Reddit - Angular2板块](https://www.reddit.com/r/Angular2/)
 
 ### 工具
 - [Augury - 官方的调试工具 Chrome插件](https://github.com/rangle/augury)
@@ -124,6 +127,7 @@
 
 ### 跨多端工程项目
 - [React Native - 开发iOS与Android应用](https://facebook.github.io/react-native/)
+ - [Angular 2 + React Native - 文章介绍](https://angularjs.blogspot.com/2016/04/angular-2-react-native.html)
  - [React Native Renderer - 使用ng2跟RN开发iOS与Android应用程序](https://github.com/angular/react-native-renderer)
  
 - [NativeScript - 开发移动端应用](https://www.nativescript.org/)
