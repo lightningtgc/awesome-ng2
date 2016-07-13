@@ -18,6 +18,7 @@
 
 ### 官方资源
 - [Angular 2官网](https://angular.io/)
+- [Angular 2官网(中文版)](https://angular.cn/)
 - [开发文档](https://angular.io/docs/js/latest/)
 - [API文档](https://angular.io/docs/js/latest/api/)
 - [Github地址](https://github.com/angular/angular)
@@ -25,10 +26,8 @@
 
 ### 入门资料
 - [5分钟快速入门](https://angular.io/docs/ts/latest/quickstart.html)
-- [Angular2开发指南 - 翻译系列](https://github.com/gf-rd/blog/issues/21)
 - [Angular2 简介](http://zhuanlan.zhihu.com/p/20058966)
 - [Getting Started with Angular 2.0](http://thejackalofjavascript.com/getting-started-with-angular-2-0/)
-- [Angular2 - 官方中文译文](http://www.angular.live/)
 
 ### 教程
 - [learn-angular2 (通过实例一步步学习ng2)](https://github.com/panacloud/learn-angular2)
