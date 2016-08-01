@@ -48,6 +48,7 @@
 - [awesome-angular2](https://github.com/AngularClass/awesome-angular2)
 - [Todd Motto](https://toddmotto.com/)
 - [Oren Farhi](http://orizens.com/)
+- [NG-BOOK 博客](http://blog.ng-book.com/)
 
 ### 电子书
 - [ng-book 2](https://www.ng-book.com/2/)
@@ -138,6 +139,10 @@
 
 - [Ionic@beta - 开发iOS与Android应用](http://ionicframework.com/docs/v2/)
  - [Ionic](https://github.com/driftyco)
+ 
+### 周边生态圈
+- [redux](http://redux.js.org/)
+ - [博文:介绍Redux与Angular 2](http://blog.ng-book.com/introduction-to-redux-with-typescript-and-angular-2/)
 
 ### 演讲分享
 - #### 国内技术大会
