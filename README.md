@@ -49,6 +49,7 @@
 - [Todd Motto](https://toddmotto.com/)
 - [Oren Farhi](http://orizens.com/)
 - [NG-BOOK 博客](http://blog.ng-book.com/)
+- [Angular University - 英文博客，质量还不错](http://blog.angular-university.io/)
 
 ### 电子书
 - [ng-book 2](https://www.ng-book.com/2/)
