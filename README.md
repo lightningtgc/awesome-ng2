@@ -127,6 +127,7 @@
 
 - 游戏相关
  - [ng-go(ng2 围棋游戏)](https://github.com/lys1030/ng-go)
+ - [ng2-chess(国际象棋游戏)](https://github.com/shlomiassaf/ng2-chess)
 
 ### 跨多端工程项目
 - [React Native - 开发iOS与Android应用](https://facebook.github.io/react-native/)
