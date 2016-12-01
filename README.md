@@ -40,7 +40,6 @@
 - [blogspot](http://angularjs.blogspot.com/)
 - [VICTOR SAVKIN - ng2核心开发成员个人博客](http://victorsavkin.com/)
 - [thoughtram - ng2合作团队博客](http://blog.thoughtram.io/)
-- [广发证券技术博客](https://github.com/gf-rd/blog/issues)
 - [ng-learn - ng2博文系列](http://ng-learn.org/tags/angularjs-2.html)
 - [Angular Tips](http://angular-tips.com/)
 - [angular-2-articles](http://www.syntaxsuccess.com/angular-2-articles)
@@ -72,8 +71,8 @@
 
 ### 脚手架
 - [angular2-seed](https://github.com/angular/angular2-seed)
-- [angular2-seed 结合Gulp.js](https://github.com/mgechev/angular2-seed)
-- [angular2-webpack-starter](https://github.com/AngularClass/angular2-webpack-starter)
+- [mgechev：angular2-seed（按照官方最佳实践实现）](https://github.com/mgechev/angular-seed)
+- [AngularClass：angular2-webpack-starter](https://github.com/AngularClass/angular2-webpack-starter)
 - [angular2-seed-advanced](https://github.com/NathanWalker/angular2-seed-advanced)
 - [angular2-cli](https://github.com/angular/angular-cli)
 - [angular2-esnext-starter](https://github.com/blacksonic/angular2-esnext-starter)（仅面向ES6/7，不支持typescript）
@@ -106,6 +105,7 @@
 - [Augury - 官方的调试工具 Chrome插件](https://github.com/rangle/augury)
 - [Codelyzer - 基于tslint的静态代码分析工具](https://github.com/mgechev/codelyzer)
 - [Universal Angular 2 - ng2服务端渲染](https://github.com/angular/universal)
+- [基于RxJS的状态管理库](https://github.com/ngrx/store)
 - 编辑器IDE
  - [Sublime Text - ng2代码片段包](https://github.com/evanplaice/angular2-snippets)
  - [Webstorm - ng2代码模板](https://github.com/d3viant0ne/angular2-webstorm-templates)
@@ -115,6 +115,8 @@
 ### 示例项目与代码
 > 可用于学习借鉴
 
+- [管理后台面板框架](https://github.com/akveo/ng2-admin)
+- [用 ng2 实现 HackerNews 网站](https://github.com/hswolff/hn-ng2)
 - [ng2 TodoMVC](https://github.com/tastejs/todomvc/tree/master/examples/angular2)
 - [ng2和TypeScript JumpStart 示例 - 覆盖大量语法](https://github.com/DanWahlin/Angular2-JumpStart)
 - [ng2 股票组合追踪项目](https://github.com/paulhoughton/portfolio/)
