@@ -79,6 +79,7 @@
 - [angular2-minimalist-starter](https://github.com/rogerpadilla/angular2-minimalist-starter)
 - [babel-angular2-app (Babel, Browserify)](https://github.com/shuhei/babel-angular2-app)
 - [angular2-webpack (结合webpack，测试规范等比较齐全)](https://github.com/preboot/angular2-webpack)
+- [JAVA Spring Boot 后端结合 Angular 2](https://github.com/borysn/spring-boot-angular2)
 
 ### UI组件
 - [NG2 Bootstrap - 样式库](http://valor-software.com/ng2-bootstrap/)
