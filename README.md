@@ -2,7 +2,6 @@
 
 > Angular2（以下也称为ng2）资源大全，收集ng2周边生态圈的各种资料，包括图书，教程，视频，脚手架等等内容。
 
-> 由广发证券互联网金融研发团队倾情奉献
 
 ##### ng2当前最新版本:
 [![Angular2 当前版本状况](https://badge.fury.io/js/%40angular%2Fcore.svg)](https://www.npmjs.com/~angular)
@@ -11,9 +10,7 @@
 [![Angular 2浏览器支持情况](https://saucelabs.com/browser-matrix/angular2-ci.svg)](https://saucelabs.com/u/angular2-ci)
 
 
-
 ### 目录
-
 
 
 ### 官方资源
@@ -186,9 +183,8 @@
 
 > 诚邀社区一起参与建设此项目，给后来者提供更好的学习环境。
 
-贡献者列表：
 
-- [汤桂川_gc](https://github.com/lightningtgc)
+[点击查看贡献者列表](https://github.com/lightningtgc/awesome-ng2/graphs/contributors)
 
  
 
