@@ -116,6 +116,7 @@
 ### 示例项目与代码
 > 可用于学习借鉴
 
+- [ng2 samples（内含大量示例代码包括 Web Worker 等）](https://github.com/thelgevold/angular-2-samples)
 - [管理后台面板框架](https://github.com/akveo/ng2-admin)
 - [用 ng2 实现 HackerNews 网站](https://github.com/hswolff/hn-ng2)
 - [ng2 TodoMVC](https://github.com/tastejs/todomvc/tree/master/examples/angular2)
