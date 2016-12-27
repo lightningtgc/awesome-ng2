@@ -67,8 +67,9 @@
  - [Angular 2 Demystified - 揭秘](https://www.udemy.com/introduction-to-angular2/)
 
 ### 脚手架
-- [angular2-seed](https://github.com/angular/angular2-seed)
+- [angular2-seed（官方库）](https://github.com/angular/angular2-seed)
 - [mgechev：angular2-seed（按照官方最佳实践实现）](https://github.com/mgechev/angular-seed)
+- [angular-webpack2-starter（支持服务端渲染）](https://github.com/qdouble/angular-webpack2-starter/)
 - [AngularClass：angular2-webpack-starter](https://github.com/AngularClass/angular2-webpack-starter)
 - [angular2-seed-advanced](https://github.com/NathanWalker/angular2-seed-advanced)
 - [angular2-cli](https://github.com/angular/angular-cli)
